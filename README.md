@@ -1,10 +1,5 @@
 
 ## Ilya Speech
 
-<p align="center">
-  <video width="600" controls>
-    <source src="https://github.com/grensen/ml24/raw/main/ilya_speech.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/grensen/ml24/assets/53048236/8b55ab8d-48f1-4bf7-9bcf-889e55a6fb58
 
